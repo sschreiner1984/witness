@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon="witness.ico" --add-data "witness.ico;." witness.pyw 
